@@ -39,6 +39,11 @@ api = "0.7"
     version = "3.0.1"
 
   [[order.group]]
+    id = "ninech/buildpack-ruby-enable-node"
+    optional = true
+    version = "0.0.1"
+
+  [[order.group]]
     id = "paketo-buildpacks/yarn"
     optional = true
     version = "1.2.0"
@@ -95,6 +100,11 @@ api = "0.7"
     id = "paketo-buildpacks/node-engine"
     optional = true
     version = "3.0.1"
+
+  [[order.group]]
+    id = "ninech/buildpack-ruby-enable-node"
+    optional = true
+    version = "0.0.1"
 
   [[order.group]]
     id = "paketo-buildpacks/yarn"
@@ -155,6 +165,11 @@ api = "0.7"
     version = "3.0.1"
 
   [[order.group]]
+    id = "ninech/buildpack-ruby-enable-node"
+    optional = true
+    version = "0.0.1"
+
+  [[order.group]]
     id = "paketo-buildpacks/yarn"
     optional = true
     version = "1.2.0"
@@ -211,6 +226,11 @@ api = "0.7"
     id = "paketo-buildpacks/node-engine"
     optional = true
     version = "3.0.1"
+  
+  [[order.group]]
+    id = "ninech/buildpack-ruby-enable-node"
+    optional = true
+    version = "0.0.1"
 
   [[order.group]]
     id = "paketo-buildpacks/yarn"
@@ -269,6 +289,11 @@ api = "0.7"
     id = "paketo-buildpacks/node-engine"
     optional = true
     version = "3.0.1"
+
+  [[order.group]]
+    id = "ninech/buildpack-ruby-enable-node"
+    optional = true
+    version = "0.0.1"
 
   [[order.group]]
     id = "paketo-buildpacks/yarn"
